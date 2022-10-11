@@ -1,0 +1,179 @@
+[
+  {
+    "key": "快播云",
+    "id": 1,
+    "name": "快播云",
+    "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+    "download": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": true
+  },
+  {
+    "key": "天空云",
+    "id": 7,
+    "name": "天空云",
+    "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+    "download": "",
+    "jiexiUrl": "https://jx.7kjx.com/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 21,
+    "key": "天堂资源(官)",
+    "name": "天堂资源(官)",
+    "api": "http://vipmv.cc/api.php/provide/vod/at/xml/",
+    "jiexiUrl": "https://jx.parwix.com:4433/player/?url=",
+    "group": "#官方解析",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 23,
+    "key": "软件星球1",
+    "name": "软件星球1",
+    "api": "http://caiji.nxflv.com/api.php/provide/vod/at/xml/",
+    "jiexiUrl": "https://www.nxflv.com/?url=",
+    "group": "#官方解析",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 33,
+    "key": "木子看剧(官)",
+    "name": "木子看剧(官)",
+    "api": "https://mzkj.maccms.cf/api.php/provide/vod/at/xml/",
+    "group": "#官方解析",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 34,
+    "key": "小猫咪(官)",
+    "name": "小猫咪(官)",
+    "api": "http://zy.xiaomaomi.cc/api.php/provide/vod/at/xml/",
+    "jiexiUrl": "http://xiaomaomi.cc/player/?url=",
+    "group": "#官方解析",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 38,
+    "key": "TOM资源(切)",
+    "name": "TOM资源(切)",
+    "api": "https://api.tomcaiji.com/api.php/provide/vod/at/xml/",
+    "group": "#切片资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 43,
+    "key": "量子资源(切)",
+    "name": "量子资源(切)",
+    "api": "http://cj.lziapi.com/api.php/provide/vod/at/xml/",
+    "group": "#切片资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 45,
+    "key": "卧龙资源(切)",
+    "name": "卧龙资源(切)",
+    "api": "https://collect.wolongzyw.com/api.php/provide/vod/at/xml/",
+    "group": "#切片资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 48,
+    "key": "酷点资源(切)",
+    "name": "酷点资源(切)",
+    "api": "https://kudianzy.com/api.php/provide/vod/at/xml/",
+    "group": "#切片资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 49,
+    "key": "速更资源(切)",
+    "name": "速更资源(切)",
+    "api": "https://sugengzy.cn/api.php/provide/vod/at/xml/",
+    "group": "#切片资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 52,
+    "key": "新浪资源(切)",
+    "name": "新浪资源(切)",
+    "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/",
+    "group": "#切片资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 53,
+    "key": "鱼乐资源(切)",
+    "name": "鱼乐资源(切)",
+    "api": "https://api.ylzy1.com/api.php/provide/vod/at/xml/",
+    "group": "#切片资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 54,
+    "key": "韩剧资源(切)",
+    "name": "韩剧资源(切)",
+    "api": "http://www.hanjuzy.com/inc/api.php",
+    "group": "#切片资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 62,
+    "key": "U酷资源(优)",
+    "name": "U酷资源(优)",
+    "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/",
+    "group": "#优质资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 68,
+    "key": "XYUI(优)",
+    "name": "XYUI(优)",
+    "api": "http://jx4.xyui.top:7001/api.php/provide/vod/at/xml/",
+    "group": "#优质资源",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  },
+  {
+    "id": 87,
+    "key": "艾旦影视(聚)",
+    "name": "艾旦影视(聚)",
+    "api": "https://lovedan.net/api.php/provide/vod/at/xml/",
+    "group": "#聚合",
+    "isActive": true,
+    "status": "可用",
+    "reverseOrder": false
+  }
+]
